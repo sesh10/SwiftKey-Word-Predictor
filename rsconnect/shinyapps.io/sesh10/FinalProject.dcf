@@ -1,0 +1,12 @@
+name: FinalProject
+title: FinalProject
+username:
+account: sesh10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2876202
+bundleId: 3665038
+url: https://sesh10.shinyapps.io/FinalProject/
+when: 1600932759.83909
+asMultiple: FALSE
+asStatic: FALSE
